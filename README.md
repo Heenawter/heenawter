@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-| <a href="https://github.com/heenawter"><img src="https://github-readme-stats.vercel.app/api?username=heenawter&count_private=true&show_icons=true&text_color=3e3e3e&hide_border=true" alt="Hannah's GitHub statistics" /></a> | <a href="https://github.com/heenawter"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heenawter&text_color=3e3e3e&hide_border=true&layout=compact" alt="Hannah's most used languages" /></a> |
+| <a href="https://github.com/heenawter"><img src="https://github-readme-stats.vercel.app/api?username=heenawter&count_private=true&show_icons=true&text_color=3e3e3e&hide_border=true" alt="Hannah's GitHub statistics" /></a> | <a href="https://github.com/heenawter"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heenawter&count_private=true&langs_count=8&text_color=3e3e3e&hide_border=true&layout=compact" alt="Hannah's most used languages" /></a> |
 | :----------- | -----------: |
 
