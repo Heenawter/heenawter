@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Heenawter/heenawter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+| <a href="https://github.com/heenawter"><img align="center" src="https://github-readme-stats.vercel.app/api?username=heenawter&count_private=true&show_icons=true&theme=calm&bg_color=fffefe&text_color=3e3e3e&hide_border=true" alt="Hannah's GitHub statistics" /></a> | <a href="https://github.com/heenawter"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heenawter&layout=compact&theme=calm&bg_color=fffefe&text_color=3e3e3e&hide_border=true" alt="Hannah's most used languages" /></a> |
+| ------------- | ------------- |
+
